@@ -2,6 +2,7 @@
 - 👀 I’m interested in UX design, and human-centered computing
 - 🌱 I’m currently learning Figma, and Python 
 - 📫 How to reach me: ruwaydmr@hotmail.com
+- Check out my portfolio: https://rraffa.myportfolio.com/
 
 <!---
 Ruwayd07/Ruwayd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
